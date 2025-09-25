@@ -62,7 +62,7 @@ portfolio/
 
 ## 🔗 Live Demo
 
-This portfolio is designed to be deployed on GitHub Pages. Simply push to a GitHub repository and enable GitHub Pages in the repository settings.
+This portfolio is deployed on GitHub Pages.
 
 ## 📄 Pages Overview
 
@@ -83,5 +83,5 @@ This portfolio is designed to be deployed on GitHub Pages. Simply push to a GitH
 ---
 
 **Created by Muhammad Ijaz** - AI Engineer & Web Developer  
-📧 ijazkhanzada07@gmail.com  
+📧 muhammad.bese23seecs@seecs.edu.pk  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-ijaz-659634295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BChTZ1hkFSi%2BkUteaZnHdxA%3D%3D)
