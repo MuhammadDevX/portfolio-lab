@@ -510,17 +510,17 @@ p {
     display: block;
     margin: 0 auto 20px auto;
   }
-  
+
   .gallery-item {
     width: 48%;
   }
-  
+
   .skill-item,
   .contact-item {
     width: 98%;
     float: none;
   }
-  
+
   nav a {
     display: block;
     margin: 5px 0;
@@ -532,7 +532,7 @@ p {
     width: 98%;
     float: none;
   }
-  
+
   .container {
     margin: 20px;
     padding: 20px;
